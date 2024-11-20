@@ -4,7 +4,7 @@
     "keywords": [
         "token packagist"
     ],
-    "type": "metapackage",
+    "type": "library",
     "license": "MIT",
     "authors": [
         {
